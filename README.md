@@ -1,36 +1,29 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<div align="center">
+ <h2>Olá amigo, você é um amigo! 🤝</h2>
+</div>
 
-<p align="left"> 
-  🤷‍♂️ Me chamo Alison Queiroz, estudante de programação na EdTech.
+<br />
 
-  👨‍💻 Atualmente profissionalizando em Fullstack, com aprendizado em html, css, sass, javascript, typescript, react entre outras aplicações.
+<div align="center">
+  <p> 🤷‍♂️ Me chamo Alison Queiroz, estudante de programação na EdTech. </p>
+  <p> 👨‍💻 Atualmente profissionalizando em Fullstack, com aprendizado em html, css, sass, javascript, typescript, react entre outras aplicações. </p>
+  <p> 🚀 Como hobby gosto de trabalhar com projetos de automação, utilizando microcontroladores e linguagem C. </p>
+  
+</div>  
+<br />
 
-  🚀 Como hobby gosto de trabalhar com projetos de automação, utilizando microcontroladores e linguagem C.
-
-</p>
-
-<p align="left">
-  🦄 Linguagens: <strong> Javascript; React; C; Python</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Express; MongoDB; Sass; Figma; VisualStudioCode</strong>
-</p>
-
-<p align="left">
-  💌 Dúvidas, me procurem!: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=False" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+<div align="center">
+  <a href="https://github.com/aqueiroz2">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aqueiroz2&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqueiroz2&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-yoda" src="https://c.tenor.com/0l0MAsJg2ecAAAAM/ok-opm.gif">
+</div>
