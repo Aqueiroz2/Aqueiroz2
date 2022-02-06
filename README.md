@@ -23,6 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisonQueiroz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+
 ### Aplicações e Dados:
 
 <div>
@@ -41,6 +42,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
+<br />
+<br />
 <br />
 
 **Ferramentas de Desenvolvimento**
