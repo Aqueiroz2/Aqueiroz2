@@ -18,10 +18,6 @@
   <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqueiroz2&layout=compact&langs_count=16&theme=chartreuse-dark"/
 </div>
    
-<div>
- 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
- 
-</div>
+
   
 
