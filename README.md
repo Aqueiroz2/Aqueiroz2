@@ -53,3 +53,5 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
+  
+![Snake animation](https://github.com/Aqueiroz2/Aqueiroz2/blob/output/github-contribution-grid-snake.svg)
