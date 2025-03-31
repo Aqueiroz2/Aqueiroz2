@@ -5,13 +5,13 @@
 </h2>
 
 <p align="left"> 
-- 🤷‍ Me chamo Alison Queiroz, estudante de programação.
+- 🤷‍ Me chamo Alison Queiroz, estudante de Ciência da Computação.
 </p>
 <p align="left"> 
-- 👨‍💻 Atualmente profissionalizando em Fullstack, com aprendizado em html, css, sass, javascript, typescript, react entre outras aplicações.
+- 👨‍💻 Atualmente profissionalizando em Backend Python, com aprendizado em Django, FastAPI e também Flask.
 </p>
 <p align="left"> 
-- 🚀 Como hobby gosto de trabalhar com projetos de automação, utilizando microcontroladores e linguagem C.
+- 🚀 Como hobby gosto de trabalhar com projetos de automação, utilizando microcontroladores programados com Python. 
 </p>
 <p align="left"> 
 - ⚡ Conhecimento em redes de computadores.
