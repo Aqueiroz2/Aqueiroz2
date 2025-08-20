@@ -1,8 +1,6 @@
-name: Generate Snake Fixed
+name: Generate Snake Alternative
 
 on:
-  schedule:
-    - cron: "0 */12 * * *" # Executa a cada 12 horas
   workflow_dispatch: # Permite execução manual
 
 jobs:
@@ -11,19 +9,23 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        id: snake-gif
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          github_user_name: Aqueiroz2
-          outputs: assets/github-contribution-grid-snake.svg
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install -g github-contribution-grid-snake
+
+      - name: Generate Snake
+        run: |
+          github-contribution-grid-snake --user Aqueiroz2 --output ./assets/github-contribution-grid-snake.svg --theme radical
 
       - name: Check if snake was generated
         run: |
           if [ -s assets/github-contribution-grid-snake.svg ]; then
             echo "✅ Snake generated successfully"
-            echo "File size: $(wc -c < assets/github-contribution-grid-snake.svg) bytes"
-            head -5 assets/github-contribution-grid-snake.svg
+            cat assets/github-contribution-grid-snake.svg | head -5
           else
             echo "❌ Snake file is empty or not generated"
             exit 1
@@ -35,5 +37,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/github-contribution-grid-snake.svg
-          git diff --cached --quiet || git commit -m "Update GitHub Contribution Snake"
+          git diff --cached --quiet || git commit -m "Update GitHub Contribution Snake (Alternative)"
           git push

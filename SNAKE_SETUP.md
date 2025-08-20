@@ -7,9 +7,9 @@
    - Pode ser executado manualmente através do GitHub
    - Gera o snake com suas contribuições do GitHub
 
-2. **Arquivo SVG inicial** (`assets/github-contribution-grid-snake.svg`)
-   - Arquivo SVG válido que será atualizado automaticamente
-   - Mostra uma mensagem temporária até o primeiro run do workflow
+2. **Arquivo SVG funcional** (`assets/github-contribution-grid-snake.svg`)
+   - Snake funcional com contribuições simuladas
+   - Será atualizado automaticamente pelo workflow quando você tiver contribuições reais
 
 ## Como funciona
 
