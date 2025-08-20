@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Alison Queiroz
 
-[![GitHub snake](https://github.com/Aqueiroz2/Aqueiroz2/tree/main/.github/workflows/github-contribution-grid-snake.svg)](https://github.com/Aqueiroz2)
+[![GitHub snake](./assets/github-contribution-grid-snake.svg)](https://github.com/Aqueiroz2)
 
 ![Banner](./assets/banner.gif) 
 
