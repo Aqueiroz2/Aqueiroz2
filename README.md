@@ -96,12 +96,12 @@ Como hobby, programo **microcontroladores** para automações residenciais - tra
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aqueiroz2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=400)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aqueiroz2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&card_width=400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqueiroz2&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=400)
 
 </div>
 
-> *💡 As estatísticas são baseadas nos repositórios públicos. Para ver estatísticas mais detalhadas, acesse meu perfil completo!*
+> *💡 As estatísticas são baseadas apenas nos repositórios públicos do GitHub. Repositórios privados não são incluídos por questões de segurança.*
 
 ---
 
