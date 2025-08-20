@@ -16,9 +16,20 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Aqueiroz2
-          svg_out_path: assets/github-contribution-grid-snake.svg
+          outputs: assets/github-contribution-grid-snake.svg
+
+      - name: Check if snake was generated
+        run: |
+          if [ -s assets/github-contribution-grid-snake.svg ]; then
+            echo "✅ Snake generated successfully"
+            cat assets/github-contribution-grid-snake.svg | head -5
+          else
+            echo "❌ Snake file is empty or not generated"
+            exit 1
+          fi
 
       - name: Commit & Push
+        if: success()
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
