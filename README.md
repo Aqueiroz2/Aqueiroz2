@@ -2,7 +2,7 @@
 
 [![GitHub snake](https://github.com/Aqueiroz2/Aqueiroz2/github-contribution-grid-snake.svg)](https://github.com/Aqueiroz2)
 
-![Banner](./assets/banner.gif) <!-- GIF carregado localmente -->
+![Banner](./assets/banner.gif) 
 
 ---
 
@@ -49,4 +49,4 @@ Sou programador e desenvolvo soluções **SaaS**, aplicações web e automaçõe
 
 ---
 
-*Desenvolvido com ❤️ por Alison Queiroz*
+*por Alison Queiroz*
