@@ -2,7 +2,7 @@
 
 [![GitHub snake](https://github.com/Aqueiroz2/Aqueiroz2/github-contribution-grid-snake.svg)](https://github.com/Aqueiroz2)
 
-![Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) <!-- GIF animado exemplo -->
+![Banner](./assets/banner.gif) <!-- GIF carregado localmente -->
 
 ---
 
@@ -16,6 +16,7 @@ Sou programador e desenvolvo soluções **SaaS**, aplicações web e automaçõe
 **Linguagens e Frameworks**
 - Python 🐍 ![Python](https://img.shields.io/badge/Python-90%25-brightgreen)
 - Node.js ⚡ ![Node.js](https://img.shields.io/badge/Node.js-80%25-brightgreen)
+- Django 🌐 ![Django](https://img.shields.io/badge/Django-85%25-brightgreen)
 - React ⚛️ ![React](https://img.shields.io/badge/React-85%25-brightgreen)
 - MongoDB 🍃 ![MongoDB](https://img.shields.io/badge/MongoDB-75%25-yellowgreen)
 - Git/GitHub 🖇️ ![GitHub](https://img.shields.io/badge/Git-85%25-brightgreen)
@@ -37,14 +38,14 @@ Sou programador e desenvolvo soluções **SaaS**, aplicações web e automaçõe
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| **Pexinxa** | Comparador de preços e promoções de supermercado | [Repositório](https://github.com/<SEU_USUARIO>/pexinxa) |
-| **Automação Python** | Scripts para otimizar tarefas do dia a dia | [Repositório](https://github.com/<SEU_USUARIO>/automacoes) |
+| **Pexinxa** | Comparador de preços e promoções | [Repositório](https://github.com/Aqueiroz2/pexinxa) |
+| **Automação Python** | Scripts para otimizar tarefas do dia a dia | [Repositório](https://github.com/Aqueiroz2/automacoes) |
 
 ---
 
 ## 📫 Contato
 - LinkedIn: [Alison Queiroz](https://www.linkedin.com/in/alison-queiroz-676519183/)  
-- Email: alissontenob.aq@gmail.com
+- Email: alissontenob.aq@gmail.com  
 
 ---
 
