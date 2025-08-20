@@ -1,30 +1,34 @@
 # 👨‍💻 Alison Queiroz | Backend Developer
 
 <div align="center">
-  
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin-bottom: 20px;">
-    <h1 style="color: white; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🚀 Backend Developer em Transição</h1>
-  </div>
-  
-  [![GitHub snake](./assets/github-contribution-grid-snake.svg)](https://github.com/Aqueiroz2)
-  
-  ![Banner](./assets/banner.gif)
-  
-  <div style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1); padding: 15px; border-radius: 10px; margin: 20px 0;">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alison-queiroz-676519183/)
-    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissontenob.aq@gmail.com)
-    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aqueiroz2)
-  </div>
+
+## 🚀 Backend Developer em Transição
+
+> *Transformando redes em código, conectando o mundo digital* 🌐💻
+
+[![GitHub snake](./assets/github-contribution-grid-snake.svg)](https://github.com/Aqueiroz2)
+
+![Banner](./assets/banner.gif)
+
+### 📱 Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alison-queiroz-676519183/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissontenob.aq@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aqueiroz2)
 
 </div>
 
 ---
 
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 20px 0; color: white;">
-
 ## 🚀 Sobre Mim
 
-Sou **Analista de Redes** atualmente em transição para **Programador Backend Python**, com formação sólida em tecnologia e uma paixão crescente pelo desenvolvimento de software. 
+<div align="center">
+
+### 🎯 **Transição Profissional**
+
+</div>
+
+Sou **Analista de Redes** atualmente em transição para **Programador Backend Python**, com formação sólida em tecnologia e uma paixão crescente pelo desenvolvimento de software.
 
 ### 🎓 Formação Acadêmica
 - **Bacharel em Ciências da Computação** pela UFMT
@@ -46,15 +50,15 @@ Atualmente focado em me desenvolver como **Backend Developer** com Python, mante
 ### 🏠 Hobby Geek
 Como hobby, programo **microcontroladores** para automações residenciais - transformando ideias em realidade através de IoT e automação.
 
-</div>
-
 ---
-
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
 ## 🛠️ Stack Tecnológica
 
-### **Linguagens & Frameworks**
+<div align="center">
+
+### 🎨 **Linguagens & Frameworks**
+
+</div>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,7 +69,11 @@ Como hobby, programo **microcontroladores** para automações residenciais - tra
 
 </div>
 
-### **🛠️ Ferramentas de Desenvolvimento**
+<div align="center">
+
+### 🛠️ **Ferramentas de Desenvolvimento**
+
+</div>
 <div align="center">
 
 ![VSCode](https://img.shields.io/badge/VSCode-95%25-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -76,13 +84,15 @@ Como hobby, programo **microcontroladores** para automações residenciais - tra
 
 </div>
 
-</div>
-
 ---
 
-<div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-
 ## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+### 📈 **Minhas Estatísticas**
+
+</div>
 
 <div align="center">
 
@@ -91,30 +101,30 @@ Como hobby, programo **microcontroladores** para automações residenciais - tra
 
 </div>
 
-</div>
-
 ---
-
-<div style="background: linear-gradient(135deg, #a8caba 0%, #5d4e75 100%); padding: 20px; border-radius: 15px; margin: 20px 0; color: white;">
 
 ## 💡 Projetos em Destaque
 
 <div align="center">
+
+### 🚀 **Projetos em Destaque**
+
+</div>
 
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|-------------|------|
 | **🐍 Pexinxa** | Comparador de preços e promoções | Django, React, API REST | [Repositório](https://github.com/Aqueiroz2/pexinxa) |
 | **⚡ Automações Python** | Scripts para otimizar tarefas do dia a dia | Python, Automação | [Repositório](https://github.com/Aqueiroz2/automacoes) |
 
-</div>
-
-</div>
-
 ---
 
-<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-
 ## 🎯 Objetivos
+
+<div align="center">
+
+### 🎯 **Metas de Carreira**
+
+</div>
 
 - [ ] **Especialização Backend** - Dominar Django e Python
 - [ ] **Arquitetura de Software** - Aprender padrões de design avançados
@@ -122,13 +132,15 @@ Como hobby, programo **microcontroladores** para automações residenciais - tra
 - [ ] **IoT & Automação** - Expandir projetos com microcontroladores
 - [ ] **Contribuição Open Source** - Participar ativamente da comunidade
 
-</div>
-
 ---
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-
 ## 📫 Vamos Conectar?
+
+<div align="center">
+
+### 🤝 **Vamos Conectar?**
+
+</div>
 
 <div align="center">
 
@@ -138,12 +150,16 @@ Como hobby, programo **microcontroladores** para automações residenciais - tra
 
 </div>
 
-</div>
+---
+
+<div align="center">
 
 ---
 
-<div align="center" style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1); padding: 20px; border-radius: 15px; margin: 20px 0; color: white;">
+### 🚀 **Alison Queiroz**
 
-**por Alison Queiroz** 🚀
+> *Transformando ideias em código, conectando pessoas através da tecnologia*
+
+---
 
 </div>
