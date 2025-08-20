@@ -1,15 +1,38 @@
-name: Github Snake animation
+name: GitHub Contribution Snake
 
 on:
   schedule:
+    # Executa todo dia às 00:00 UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate contribution snake
-        uses: platane/snk@v1
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          npm install -g github-contribution-grid-snake
+
+      - name: Generate contribution snake
+        run: |
+          github-contribution-grid-snake --user Aqueiroz2 --output ./assets/github-contribution-grid-snake.svg --theme radical
+
+      - name: Commit & push SVG
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add ./assets/github-contribution-grid-snake.svg
+          git commit -m "Update GitHub Contribution Snake"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
