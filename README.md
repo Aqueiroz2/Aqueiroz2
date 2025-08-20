@@ -2,23 +2,29 @@
 
 <div align="center">
   
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin-bottom: 20px;">
+    <h1 style="color: white; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🚀 Backend Developer em Transição</h1>
+  </div>
+  
   [![GitHub snake](./assets/github-contribution-grid-snake.svg)](https://github.com/Aqueiroz2)
   
   ![Banner](./assets/banner.gif)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alison-queiroz-676519183/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissontenob.aq@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aqueiroz2)
+  <div style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1); padding: 15px; border-radius: 10px; margin: 20px 0;">
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alison-queiroz-676519183/)
+    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alissontenob.aq@gmail.com)
+    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aqueiroz2)
+  </div>
 
 </div>
 
 ---
 
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 20px 0; color: white;">
+
 ## 🚀 Sobre Mim
 
-> *"Código é poesia, bugs são desafios, e cada linha escrita é um passo em direção à inovação."*
-
-Sou **Analista de Redes** com formação sólida em tecnologia e uma paixão crescente pelo desenvolvimento backend. 
+Sou **Analista de Redes** atualmente em transição para **Programador Backend Python**, com formação sólida em tecnologia e uma paixão crescente pelo desenvolvimento de software. 
 
 ### 🎓 Formação Acadêmica
 - **Bacharel em Ciências da Computação** pela UFMT
@@ -40,7 +46,11 @@ Atualmente focado em me desenvolver como **Backend Developer** com Python, mante
 ### 🏠 Hobby Geek
 Como hobby, programo **microcontroladores** para automações residenciais - transformando ideias em realidade através de IoT e automação.
 
+</div>
+
 ---
+
+<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
 ## 🛠️ Stack Tecnológica
 
@@ -66,7 +76,11 @@ Como hobby, programo **microcontroladores** para automações residenciais - tra
 
 </div>
 
+</div>
+
 ---
+
+<div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
 ## 📊 Estatísticas do GitHub
 
@@ -77,7 +91,11 @@ Como hobby, programo **microcontroladores** para automações residenciais - tra
 
 </div>
 
+</div>
+
 ---
+
+<div style="background: linear-gradient(135deg, #a8caba 0%, #5d4e75 100%); padding: 20px; border-radius: 15px; margin: 20px 0; color: white;">
 
 ## 💡 Projetos em Destaque
 
@@ -90,7 +108,11 @@ Como hobby, programo **microcontroladores** para automações residenciais - tra
 
 </div>
 
+</div>
+
 ---
+
+<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
 ## 🎯 Objetivos
 
@@ -100,7 +122,11 @@ Como hobby, programo **microcontroladores** para automações residenciais - tra
 - [ ] **IoT & Automação** - Expandir projetos com microcontroladores
 - [ ] **Contribuição Open Source** - Participar ativamente da comunidade
 
+</div>
+
 ---
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
 
 ## 📫 Vamos Conectar?
 
@@ -112,11 +138,11 @@ Como hobby, programo **microcontroladores** para automações residenciais - tra
 
 </div>
 
+</div>
+
 ---
 
-<div align="center">
-
-*"O código é a linguagem do futuro, e eu estou escrevendo o meu."* 
+<div align="center" style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1); padding: 20px; border-radius: 15px; margin: 20px 0; color: white;">
 
 **por Alison Queiroz** 🚀
 
