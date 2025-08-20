@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Alison Queiroz
 
-[![GitHub snake](https://github.com/Aqueiroz2/meu-repo/github-contribution-grid-snake.svg)](https://github.com/Aqueiroz2)
+[![GitHub snake](https://github.com/Aqueiroz2/Aqueiroz2/github-contribution-grid-snake.svg)](https://github.com/Aqueiroz2)
 
 ![Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) <!-- GIF animado exemplo -->
 
@@ -28,8 +28,8 @@ Sou programador e desenvolvo soluções **SaaS**, aplicações web e automaçõe
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=<SEU_USUARIO>&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<SEU_USUARIO>&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aqueiroz2&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aqueiroz2&layout=compact&theme=radical)
 
 ---
 
