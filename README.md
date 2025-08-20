@@ -1,53 +1,51 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# 👋 Olá, eu sou Alison Queiroz
 
-<h2 align="left" strong>
-  Olá amigo, você é um amigo!
-</h2>
+[![GitHub snake](https://github.com/Aqueiroz2/meu-repo/github-contribution-grid-snake.svg)](https://github.com/Aqueiroz2)
 
-<p align="left"> 
-- 🤷‍ Me chamo Alison Queiroz, estudante de Ciência da Computação.
-</p>
-<p align="left"> 
-- 👨‍💻 Atualmente profissionalizando em Backend Python, com aprendizado em Django, FastAPI e também Flask.
-</p>
-<p align="left"> 
-- 🚀 Como hobby gosto de trabalhar com projetos de automação, utilizando microcontroladores programados com Python. 
-</p>
-<p align="left"> 
-- ⚡ Conhecimento em redes de computadores.
-</p>
+![Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) <!-- GIF animado exemplo -->
 
-<div align="center">
-  <a href="https://github.com/Aqueiroz2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aqueiroz2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqueiroz2&layout=compact&langs_count=10&theme=dracula&langs=python,django,aws,oauth,vercel,react,git,mongodb,postgresql,arduino,c"/>
-</div>
+---
 
-### Aplicações e Dados:
-<div>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="OAuth" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oauth/oauth-original.svg">
-  <img align="center" alt="Vercel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+## 🚀 Sobre mim
+Sou programador e desenvolvo soluções **SaaS**, aplicações web e automações. Tenho interesse em backend, **Python**, **Node.js**, **Django** e **React**, criando projetos que otimizam tarefas do dia a dia.
 
-<br />
-<br />
-<br />
+---
 
-**Ferramentas de Desenvolvimento**
+## 🛠 Tecnologias & Skills
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+**Linguagens e Frameworks**
+- Python 🐍 ![Python](https://img.shields.io/badge/Python-90%25-brightgreen)
+- Node.js ⚡ ![Node.js](https://img.shields.io/badge/Node.js-80%25-brightgreen)
+- React ⚛️ ![React](https://img.shields.io/badge/React-85%25-brightgreen)
+- MongoDB 🍃 ![MongoDB](https://img.shields.io/badge/MongoDB-75%25-yellowgreen)
+- Git/GitHub 🖇️ ![GitHub](https://img.shields.io/badge/Git-85%25-brightgreen)
 
-<br/>
-  
-![Snake animation](https://github.com/Aqueiroz2/Aqueiroz2/blob/output/github-contribution-grid-snake.svg)
+**Ferramentas**
+- VSCode 🖥️ ![VSCode](https://img.shields.io/badge/VSCode-95%25-brightgreen)
+- Postman 🚀 ![Postman](https://img.shields.io/badge/Postman-80%25-yellowgreen)
+- Linux 🐧 ![Linux](https://img.shields.io/badge/Linux-75%25-yellow)
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=<SEU_USUARIO>&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<SEU_USUARIO>&layout=compact&theme=radical)
+
+---
+
+## 💡 Projetos em destaque
+
+| Projeto | Descrição | Link |
+|--------|-----------|------|
+| **Pexinxa** | Comparador de preços e promoções de supermercado | [Repositório](https://github.com/<SEU_USUARIO>/pexinxa) |
+| **Automação Python** | Scripts para otimizar tarefas do dia a dia | [Repositório](https://github.com/<SEU_USUARIO>/automacoes) |
+
+---
+
+## 📫 Contato
+- LinkedIn: [Alison Queiroz](https://www.linkedin.com/in/alison-queiroz-676519183/)  
+- Email: alissontenob.aq@gmail.com
+
+---
+
+*Desenvolvido com ❤️ por Alison Queiroz*
